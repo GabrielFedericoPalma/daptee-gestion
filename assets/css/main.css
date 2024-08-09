@@ -1,0 +1,12 @@
+/* Commomns */
+a {
+    text-decoration: none;
+}
+
+/* Header */
+.logo .nuxt-icon svg{
+    width: 2em;
+    height: 2em;
+    font-size: 3em;
+    margin-bottom: 0;
+}
